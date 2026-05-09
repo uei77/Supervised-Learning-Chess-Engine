@@ -1,4 +1,4 @@
-# Supervised-Learning-Chess-Engine
+# Reinforcement-Learning-Chess-Engine
 Chess Engine is around 1900 2000 elo.
 Chess Engine was developed using PyTorch
 The engine utilizes Monte Carlo Tree Search (MCTS) with 800 simulations per move for optimal decision-making.
